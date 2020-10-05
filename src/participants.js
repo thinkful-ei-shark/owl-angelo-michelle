@@ -1,4 +1,5 @@
 
+import React from 'react';
 
 const participants = [
     {
@@ -41,3 +42,5 @@ const participants = [
         onStage: true
     }
 ];
+
+export default participants;
